@@ -1,0 +1,8 @@
+# robots.txt — ИСТОК
+# ✏️ Замени ТВОЙ-ДОМЕН.ru на реальный домен
+
+User-agent: *
+Allow: /
+Disallow: /cdn-cgi/
+
+Sitemap: https://kpavchenko.github.io/istok//sitemap.xml
